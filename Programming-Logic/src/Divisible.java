@@ -19,6 +19,8 @@ public class Divisible {
         }
         if (n % 5 == 0) {
             System.out.print("Dinha");
+        } else {
+            System.out.print("Not divisible \n");
         }
     }
 }

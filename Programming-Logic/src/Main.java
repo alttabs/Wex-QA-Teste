@@ -8,7 +8,7 @@ public class Main {
         int n;
 
 
-        System.out.println("Hello, my program have two algorithms! Choose 0 to DIVISIBLE or 1 to SUM");
+        System.out.println("\nHello, my program have two algorithms! Choose: \n0 to DIVISIBLE\n1 to SUM");
         Scanner scan = new Scanner(System.in);
 
         n = scan.nextInt();
@@ -25,6 +25,7 @@ public class Main {
             sum.letsSum();
         }
 
+        main(args);
     }
 
 }
