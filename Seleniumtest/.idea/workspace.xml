@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2584fdf2-4243-4138-959c-017ee4d7854b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YJ055grYKJ766PpiXDRvid4L2V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.53608245" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/chromedriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: test">
+    <configuration name="Feature: test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/test.feature" />
+      <option name="GLUE" value="stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Seleniumtest" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/test.feature" />
+      <option name="GLUE" value="stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.main" />
+      <module name="Seleniumtest" />
+      <option name="NAME_FILTER" value="^Test$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Test$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="GLUE" value="stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.main" />
+      <module name="Seleniumtest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: test" />
+      <item itemvalue="Cucumber java.Scenario: Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2584fdf2-4243-4138-959c-017ee4d7854b" name="Default Changelist" comment="" />
+      <created>1582645203561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582645203561</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="231" key="#Project_Structure" timestamp="1582653226629">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="361" y="231" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1582653226629" />
+    <state x="282" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582653031234">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="282" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1582653031234" />
+    <state x="555" y="263" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582653024574">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="555" y="263" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.877@0.23.1440.877" timestamp="1582653024574" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1582685126089">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1582685126089" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1582685126089">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1582685126089" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1582685126088">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1582685126088" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1582685126089">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1582685126089" />
+    <state x="326" y="206" key="Maven.ArtifactSearchDialog" timestamp="1582646715100">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="326" y="206" key="Maven.ArtifactSearchDialog/0.23.1440.877@0.23.1440.877" timestamp="1582646715100" />
+    <state x="229" y="63" key="SettingsEditor" timestamp="1582651422459">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="229" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1582651422459" />
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1582729825625">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1582729825625" />
+    <state x="474" y="510" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582652777956">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="474" y="510" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1582652777956" />
+    <state x="114" y="159" key="new project wizard" timestamp="1582731547900">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="114" y="159" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1582731547900" />
+  </component>
+</project>
