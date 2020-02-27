@@ -1,7 +1,7 @@
 ![Java](https://img.shields.io/badge/BuildWith-JAVA-red)
 ![test](https://img.shields.io/badge/selenium-tests-green)
 ![maven](https://img.shields.io/badge/maven-4.0-blue)
-![maven](https://img.shields.io/badge/cucumber-bd-green)
+![maven](https://img.shields.io/badge/cucumber-DB-green)
 
 
 ![WEX](https://www.wexinc.com/wp-content/uploads/2018/08/logo-WEX.png)
