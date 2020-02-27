@@ -67,4 +67,4 @@ Created API to automate test scenarios
 Run file ``.feature`` 
 
 --- 
-Made with ❤️ by Thabata Almeida :computer: [Get in touch!](www.linkedin.com/in/thabataalmeida)
+Made with ❤️ by Thabata Almeida :computer: [Get in touch!](https://www.linkedin.com/in/thabataalmeida/)
