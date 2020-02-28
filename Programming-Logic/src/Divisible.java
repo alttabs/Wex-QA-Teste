@@ -13,14 +13,19 @@ public class Divisible {
         System.out.println("Please, enter a number");
 
         n = scan.nextInt();
-
-        if (n % 3 == 0) {
+		String s = Integer.toString(n);
+		
+		
+        if (n % 3 == 0 && s.contains("5")) {
+            System.out.print("CiraDinha");
+        }
+        else if (n % 3 == 0) {
             System.out.print("Cira");
         }
-        if (n % 5 == 0) {
+        else if (s.contains("5")) {
             System.out.print("Dinha");
         } else {
-            System.out.print("Not divisible \n");
+            System.out.print("Not in this scope \n");
         }
     }
 }
