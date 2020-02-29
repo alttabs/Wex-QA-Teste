@@ -13,11 +13,12 @@ public class Divisible {
         System.out.println("Please, enter a number");
 
         n = scan.nextInt();
+        String s = Integer.toString(n);
 
         if (n % 3 == 0) {
             System.out.print("Cira");
         }
-        if (n % 5 == 0) {
+        if (s.contains("5")) {
             System.out.print("Dinha");
         } else {
             System.out.print("Not divisible \n");
